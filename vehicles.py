@@ -23,7 +23,7 @@ import numpy as np
 
 # Import data file
 
-df = pd.read_csv('/Users/nikitagarkusha/Projects/Vehicles/vehicles.csv')
+df = pd.read_csv('vehicles.csv')
 
 
 # Dropping unnecessary data
