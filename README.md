@@ -2,6 +2,9 @@
 
 This repository contains a complete workflow for analyzing and modeling used car prices based on a real-world dataset of vehicle listings. The project covers data cleaning, exploratory analysis, feature engineering, and the application of several regression models to predict car prices.
 
+# Data Source
+https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data 
+
 ## Project Highlights
 - Cleans and preprocesses raw vehicle data
 - Visualizes key trends and relationships in the data
